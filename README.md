@@ -1,2 +1,2 @@
-# Dal-s-Skincare-Palace
+# Dal's Skincare Palace
 Skincare Website
